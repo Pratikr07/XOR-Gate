@@ -1,0 +1,67 @@
+$date
+	Mon Jan 05 22:37:25 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module tb_xor_gate $end
+$var wire 1 ! f $end
+$var reg 1 " a $end
+$var reg 1 # b $end
+$scope module uut $end
+$var wire 1 $ a $end
+$var wire 1 % b $end
+$var wire 1 ! f $end
+$var wire 1 & t1 $end
+$var wire 1 ' t2 $end
+$var wire 1 ( t3 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+z(
+z'
+z&
+0%
+0$
+0#
+0"
+x!
+$end
+#50
+1(
+1'
+1&
+#100
+0!
+#500
+1#
+1%
+#550
+0(
+#600
+1!
+#1000
+0#
+0%
+1"
+1$
+#1050
+1(
+0'
+#1500
+1#
+1%
+#1550
+0&
+0(
+#1600
+1'
+1(
+#1650
+0!
+#2000
