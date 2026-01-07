@@ -8,6 +8,6 @@ The XOR gate implemented using NAND gates shows correct output after propagation
 
 # How to Run
 ```bash
-iverilog -o xor xor_gate.v.txt tb_xor_gate.v.txt
+iverilog -o xor xor_gate.v tb_xor_gate.v
 vvp xor
 gtkwave xor.vcd
